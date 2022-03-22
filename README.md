@@ -1,1 +1,3 @@
-# PlotlyDeploy
+---
+permalink: /index.html
+---
